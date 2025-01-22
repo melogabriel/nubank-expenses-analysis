@@ -67,8 +67,8 @@ combined_csv.to_csv("faturas_nubank.csv", index=False, encoding='utf-8-sig')
 
 ## Future Enhancements
 
-•	Automate the download of Nubank statements using the API (if supported).
-•	Add more data cleaning or transformation steps in the script.
+- Automate the download of Nubank statements using the API (if supported).
+- Add more data cleaning or transformation steps in the script.
 
 ## License
 
