@@ -65,6 +65,9 @@ combined_csv.to_csv("faturas_nubank.csv", index=False, encoding='utf-8-sig')
 1.	Link the Google Sheet to Looker Studio.
 2.	Create charts and metrics to visualize your credit card expenses.
 
+Looker Studio Dashboard Example:
+![](dashboard-cartao.gif)
+
 ## Future Enhancements
 
 - Automate the download of Nubank statements using the API (if supported).
