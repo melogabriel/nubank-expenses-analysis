@@ -72,6 +72,7 @@ Looker Studio Dashboard Example:
 
 - Automate the download of Nubank statements using the API (if supported).
 - Add more data cleaning or transformation steps in the script.
+- Automate the data collection process via e-mail (under development)
 
 ## License
 
