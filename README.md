@@ -1,6 +1,6 @@
 # Nubank Expense Dashboard Project
 
-This project consolidates monthly credit card statement data from Nubank into a single CSV file, enabling data visualization through a Google Sheets dashboard in Looker Studio.
+This project consolidates monthly credit card statement data from Nubank into a single CSV file using Python, enabling data visualization through a Google Sheets dashboard in Looker Studio.
 
 ## Features
 
