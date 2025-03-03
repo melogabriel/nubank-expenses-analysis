@@ -70,7 +70,7 @@ Looker Studio Dashboard Example:
 
 ## Future Enhancements
 
-- Automate the download of Nubank statements using the API (if supported).
+- Automate the download of Nubank statements using the API (API is no longer supported see this issue in [pynubank](https://github.com/andreroggeri/pynubank/issues/419)).
 - Add more data cleaning or transformation steps in the script.
 - Automate the data collection process via e-mail (under development)
 - Automate the data collection process using OpenAi agents (under development)
